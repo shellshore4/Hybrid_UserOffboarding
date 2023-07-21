@@ -20,6 +20,6 @@ Contributions bienvenues! Si vous avez des suggestions pour améliorer ce script
 
 ## Remarques
 
-Soyez conscient que ce script est fourni tel quel. Veuillez tester soigneusement ce script dans un environnement de test avant de l'utiliser dans un environnement de production.
+Soyez conscient que ce script est fourni tel quel. Veuillez tester soigneusement le tout dans un environnement de test avant de l'utiliser dans un environnement de production.
 
 Merci d'avoir pris le temps de consulter ce projet
