@@ -1,4 +1,4 @@
-# Script de désactivation d'utilisateur AD et AAD
+# Script de désactivation d'utilisateur d'environement hybride AD / AAD
 
 Un script PowerShell destiné à désactiver des utilisateurs dans Active Directory et Azure AD, tout en réalisant diverses autres tâches associées.
 
